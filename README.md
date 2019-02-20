@@ -1,6 +1,10 @@
 # retrofit-multiple-file-upload-with-progress
 Upload multiple files with progressbar in retrofit android
 
+
+![Sample Home](https://raw.githubusercontent.com/sheetalkumar105/retrofit-multiple-file-upload-with-progress/master/sample.gif)
+
+
 Retrofit does not have any function to upload multiple files files with progress callback. I have created a class  FileUploader that makes multiple files upload easy with retrofit.
 
 
