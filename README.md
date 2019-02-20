@@ -37,3 +37,7 @@ Retrofit does not have any function to upload multiple files files with progress
             }
         });
     }
+
+
+Demo is available on DevStudioOnline:
+[Retrofit multiple file upload with progress in android](https://devstudioonline.com/article/retrofit-multiple-file-upload-with-progress-in-android)
